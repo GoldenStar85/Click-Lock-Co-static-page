@@ -1,1 +1,1 @@
-# Click-Lock-Co-static-page
+# click
